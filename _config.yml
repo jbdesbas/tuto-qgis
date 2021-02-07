@@ -8,3 +8,6 @@ contact_links:
   - name: Twitter
     url: https://twitter.com/jbdesbas
     icon: twitter
+
+nav_pages:
+  - contact.md
