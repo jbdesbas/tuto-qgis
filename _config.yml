@@ -3,10 +3,8 @@ title: Tuto JB QGIS
 theme: minima
 
 
-minima:
-  social_links:
-    twitter: jbdesbas
-    github: jbdesbas
+twitter_username:: jbdesbas
+github_username: jbdesbas
 
 author: JB Desbas
 email: "jean-baptiste.desbas@picardie-nature.org"
