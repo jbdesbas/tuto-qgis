@@ -11,3 +11,9 @@ contact_links:
 
 nav_pages:
   - contact.md
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-avatar
+  - jekyll-github-metadata
+  - jekyll-feed
