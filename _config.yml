@@ -1,4 +1,4 @@
-locale: "fr-FR"
+lang: fr-FR
 title: Tuto JB QGIS
 plugins:
   - jekyll-remote-theme
