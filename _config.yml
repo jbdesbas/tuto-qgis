@@ -3,3 +3,8 @@ title: Tuto JB QGIS
 plugins:
   - jekyll-remote-theme
 remote_theme: benbalter/retlab
+
+contact_links:
+  - name: Twitter
+    url: https://twitter.com/jbdesbas
+    icon: twitter
