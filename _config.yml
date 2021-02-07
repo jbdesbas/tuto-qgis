@@ -1,21 +1,13 @@
 lang: fr-FR
 title: Tuto JB QGIS
-plugins:
-  - jekyll-remote-theme
-remote_theme: benbalter/retlab
+theme: minima
 
-baseurl: "/tuto-qgis"
 
-contact_links:
-  - name: Twitter
-    url: https://twitter.com/jbdesbas
-    icon: twitter
+minima:
+  social_links:
+    twitter: jbdesbas
+    github: jbdesbas
 
-nav_pages:
-  - contact.md
-
-plugins:
-  - jekyll-seo-tag
-  - jekyll-avatar
-  - jekyll-github-metadata
-  - jekyll-feed
+author:
+  name: JB Desbas
+  email: "jean-baptiste.desbas@picardie-nature.org"
