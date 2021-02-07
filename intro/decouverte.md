@@ -8,27 +8,27 @@
 Découverte générale de QGIS.
 
 
-##Structure des projets
+## Structure des projets
 
-###Le style
+### Le style
 Symbologie, formulaires, champs virtuels
 
-###Les données
-####Vecteurs
+### Les données
+#### Vecteurs
 SHP, GeoPackages, geoJson, flux
 
-####Raster
+#### Raster
 flux, images
 
-##Ouvrir et explorer des données
+## Ouvrir et explorer des données
 
-###La table attributaire
+### La table attributaire
 
-###Les symbologies catégorisée et graduée
+### Les symbologies catégorisée et graduée
 Pour visualiser rapidement des variables
 
-###Importer des fichiers non-SIG
+### Importer des fichiers non-SIG
 CSV ou fichier ODS/XLS
 
-##Mettre en place son environnement de travail
+## Mettre en place son environnement de travail
 
