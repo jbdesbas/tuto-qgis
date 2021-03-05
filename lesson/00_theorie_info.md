@@ -17,6 +17,9 @@ Il y a un grand nombre de façons de représenter la **même information**, par 
 - pour un nombre : 5, V, cinq, ПЯТЬ, 101
 - pour un objet : marteau, hammer, vasara
 
+
+![Information et representation](images/data_representation.jpg)
+
 ## Entités et attributs
 
 L'entité c'est notre "unité de l'information". Ca peut être un objet, une personne, ou même un concept (ex : une observation naturaliste). Basiquement, ça représente une ligne de notre tableau et un point sur notre carte.
