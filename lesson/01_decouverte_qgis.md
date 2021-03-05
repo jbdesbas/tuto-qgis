@@ -15,7 +15,7 @@ La source de données est votre information abstraite, et les styles sont la man
 ### L'interface
 
 QGIS va vous permettre d'ouvrir et **supperposer** plusieurs couches.
-*Capture du panneau "couche"*
+![Information et representation](images/interface_couches.jpg)
 
 L'ordre des couches dans la liste représente l'ordre dans lequelle elles sont superposées sur la carte (l'oeil étant positionné en haut).
 
